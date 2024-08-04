@@ -1,0 +1,66 @@
+.form-section {
+  background-color: #5763a5;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+* {
+  font-family: 'Roboto';
+}
+
+.title {
+  color: white;
+}
+
+.form-details {
+  background-color: #454f84;
+  width: 45%;
+  border-radius: 6px;
+  padding: 10px;
+}
+
+.website-logo {
+  width: 20px;
+  height: 20px;
+}
+.website-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 3px 5px 0px 5px;
+  background-color: white;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
+.vertical-line {
+  border-left: 1px solid #b6c3ca;
+  height: 30px;
+  margin: 0px 5px 0px 5px;
+}
+.input-element {
+  border: none;
+  outline: none;
+}
+
+.addButton {
+  padding: 5px 15px;
+  background-color: #0b69ff;
+  outline: none;
+  border: none;
+  color: white;
+  border-radius: 6px;
+}
+
+.button1 {
+  text-align: end;
+}
+
+.image-section {
+  width: 45%;
+}
+
+.password-image {
+  width: 300px;
+}
